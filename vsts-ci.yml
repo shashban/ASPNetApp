@@ -2,7 +2,7 @@
 # Build and test ASP.NET web applications.
 # https://aka.ms/yaml
 
-queue: 'Hosted Windows Container'
+queue: 'Hosted 2017'
 variables:
   buildConfiguration: 'Release'
   buildPlatform: 'Any CPU'
